@@ -1,0 +1,5 @@
+{
+    "port": "/dev/cu.usbmodem14101",
+    "board": "adafruit:samd:adafruit_feather_m0_express",
+    "sketch": "sound-player.ino/sound-player.ino"
+}
