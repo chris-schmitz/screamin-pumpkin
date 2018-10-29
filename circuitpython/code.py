@@ -3,7 +3,6 @@ import time
 import touchio
 import digitalio
 import neopixel
-import neopixel
 
 # setup feather trigger
 trigger = digitalio.DigitalInOut(board.D0)
