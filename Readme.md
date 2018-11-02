@@ -4,6 +4,10 @@
 
 This is the code for a pumpkin my wife and I worked on for this year's Paradowski pumpkin carving contest.
 
+## The screaming part
+
+The idle routine for the pumpkin is a slowly pulsing red light from the LED strip. The little pumpkin has a capacitive touch sensor attached, so when you touched it, a witch cackle sound effect played and the neopixel strip flashed white and purple.
+
 Here's a video I shot of the final version:
 
 [https://vimeo.com/298082737](https://vimeo.com/298082737)
